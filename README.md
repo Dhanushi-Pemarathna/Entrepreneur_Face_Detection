@@ -58,7 +58,6 @@ This version uses a Convolutional Neural Network (CNN) for face recognition of f
 
 - End-to-end face recognition using CNN
 - Data augmentation to improve generalization
-- Real-time prediction capability (if integrated with camera input)
 
 ## Model comparison 
 📌 DenseNet121
