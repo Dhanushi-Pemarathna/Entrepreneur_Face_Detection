@@ -48,10 +48,9 @@ This version uses a Convolutional Neural Network (CNN) for face recognition of f
 
 ## 🧠 Deep Learning Approach
 
-- Dataset created with cropped faces using Haar cascades
 - Image preprocessing and augmentation
 - CNN model built with TensorFlow/Keras
-- Categorical cross-entropy loss and softmax output
+- Categorical cross-entropy loss
 - Model evaluation using accuracy and confusion matrix
 - models - MobileNetV2, EfficientNetB0, DenseNet121
 
